@@ -1,7 +1,7 @@
 <template>
     <div class="container ">
         <div class="row">
-            <div class="col-lg-4 col-md-6" v-for="post in posts">
+            <div class="col-lg-4 col-md-6 " v-for="post in posts">
                 <article class="blog-post">
                     <div class="blog-post-thumb">
                         <a :href="post._path">
