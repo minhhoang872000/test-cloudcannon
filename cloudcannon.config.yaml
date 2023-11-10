@@ -3,7 +3,7 @@ paths:
   data: data
   static: public
   uploads: public/images
-collections_config:
+collections_configcc:
   data:
     path: data/
     disable_add: true
